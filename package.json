@@ -1,6 +1,6 @@
 {
   "name": "motion-dev-animations-skill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude Code skill for Motion.dev -- 120fps web animations, spring physics, scroll effects, gesture interactions",
   "main": "src/index.ts",
   "scripts": {
