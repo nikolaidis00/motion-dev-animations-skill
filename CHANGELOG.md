@@ -40,3 +40,4 @@
 - fix: clarify the setup steps
 - docs: fix a small wording issue
 - docs: link the usage section
+- docs: link the usage section
